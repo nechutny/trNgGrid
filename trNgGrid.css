@@ -79,6 +79,7 @@ tfoot tr td[tr-ng-grid-footer-cell] div.tr-ng-grid-footer > div span[tr-ng-grid-
 tfoot tr td[tr-ng-grid-footer-cell] div.tr-ng-grid-footer > div span[tr-ng-grid-pager] ul.pagination {
 	display: flex;
 	flex-wrap: wrap;
+	width: 100%;
 
 	justify-content: flex-end;
 }
